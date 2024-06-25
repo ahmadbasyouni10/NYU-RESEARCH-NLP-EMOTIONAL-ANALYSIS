@@ -1,0 +1,3 @@
+[submodule "models/torchmoji"]
+	path = models/torchmoji
+	url = https://github.com/cardiffnlp/torchMoji.git
