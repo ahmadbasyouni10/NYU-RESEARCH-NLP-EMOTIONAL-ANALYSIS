@@ -1,0 +1,8 @@
+torch
+torchmoji
+scikit-learn
+text-unidecode
+emoji
+transformers
+datasets
+openai
