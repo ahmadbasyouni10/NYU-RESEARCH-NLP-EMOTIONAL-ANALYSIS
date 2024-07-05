@@ -1,0 +1,18 @@
+-TEST 1 BERT 
+* The model is unable to detect sadness/anxiety, so for all sad emotions returns laughing. 
+* Model is able to predict laughing emotion and sarcastic emotion accurately
+
+-TEST 1 GPT 4.0
+* The model was using keywords like electrifying or sunset to return the literal emoji
+* Wasn't really predicting the "emotion" for most of them
+* More accurate in finding out happy vs stressed/sad
+
+-BERT MODEL (not pipeline)
+1- Federated learning to train models for predicting emojis in text, which can help understand users' sentiments on social media. 
+Federated learning allows decentralized training across multiple clients while maintaining data privacy. 
+The paper describes the implementation of this approach in both clean data scenarios and attack scenarios (where data might be poisoned). 
+The data for training and evaluation comes from Twitter and SemEval datasets.
+
+
+* The label mapping used for this model is missing sad/anxious (negative) feelings
+* Goal is to now learn to retrain model to become familiar with new emotions
