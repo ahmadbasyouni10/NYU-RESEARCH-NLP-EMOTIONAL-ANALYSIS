@@ -1,0 +1,40 @@
+Text: I'm feeling great today! - Predicted: 😊 - True:  😊
+Text: The news was heartbreaking. - Predicted: 😂 - True:  😢
+Text: This movie is so exciting! - Predicted: 😂 - True:  😃
+Text: My vacation was amazing! - Predicted: 😍 - True:  😄
+Text: I'm stressed about my upcoming exam. - Predicted: 😂 - True:  😟
+Text: She got promoted! So proud of her. - Predicted: 😊 - True:  😊
+Text: I can't wait to see you! - Predicted: 😍 - True:  😍
+Text: It's been a tough day at work. - Predicted: 😂 - True:  😔
+Text: That joke was hilarious! - Predicted: 😂 - True:  😂
+Text: I'm feeling anxious about the interview. - Predicted: 😂 - True:  😬
+Text: The sunset was breathtaking. - Predicted: 😍 - True:  😊
+Text: I miss you so much. - Predicted: ❤ - True:  😢
+Text: I'm frustrated with this project. - Predicted: 😂 - True:  😠
+Text: Thank you for your kind words. - Predicted: ❤ - True:  😊
+Text: The concert was electrifying! - Predicted: 😍 - True:  😄
+Text: I'm worried about the future. - Predicted: 😂 - True:  😟
+Text: Her smile brightened my day. - Predicted: 😍 - True:  😊
+Text: This book is incredibly moving. - Predicted: 😍 - True:  😭
+Text: I'm so excited to start this journey! - Predicted: 😍 - True:  😃
+Text: I feel lonely without you. - Predicted: ❤ - True:  😞
+Text: The surprise party made me tear up. - Predicted: 😂 - True:  😊
+Text: The storm ruined our plans. - Predicted: 😂 - True:  😕
+Text: I'm proud of my accomplishments. - Predicted: 💯 - True:  😊
+Text: The new job offer is a relief. - Predicted: 😊 - True:  😌
+Text: I'm annoyed by the constant interruptions. - Predicted: 😂 - True:  😒
+Text: She's such a supportive friend. - Predicted: ❤ - True:  😊
+Text: I'm overwhelmed by all the responsibilities. - Predicted: 💯 - True:  😩
+Text: The puppy video made me smile. - Predicted: 😍 - True:  😊
+Text: I'm devastated by the loss. - Predicted: 😂 - True:  😭
+Text: I'm feeling motivated to exercise. - Predicted: 😂 - True:  💪
+Text: The traffic jam stressed me out. - Predicted: 😂 - True:  😫
+Text: I'm looking forward to the weekend. - Predicted: 😍 - True:  😄
+Text: He surprised me with flowers. - Predicted: 😍 - True:  😍
+Text: The rejection letter was disappointing. - Predicted: 😍 - True:  😞
+Text: I'm inspired by her dedication. - Predicted: 😂 - True:  😊
+Text: The party was a blast! - Predicted: 😍 - True:  🎉
+Text: I'm nervous about the presentation. - Predicted: 😂 - True:  😬
+Text: The sunrise was breathtaking. - Predicted: 😍 - True:  😊
+Text: I'm so grateful for your help. - Predicted: ❤ - True:  😊
+Text: The loss hit me hard. - Predicted: 😂 - True:  😢
