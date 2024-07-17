@@ -1,0 +1,41 @@
+Text,True Label,Top1 Prediction,Top1 Correct,Top2 Prediction,Top2 Correct,Top3 Prediction,Top3 Correct,Top4 Prediction,Top4 Correct,Top5 Prediction,Top5 Correct
+I'm feeling great today!,😊,😊,True,"😊, 😍",True,"😊, 😍, 😂",True,"😊, 😍, 😂, 😎",True,"😊, 😍, 😂, 😎, 😁",True
+The news was heartbreaking.,😢,😂,False,"😂, 🇺🇸",False,"😂, 🇺🇸, 💯",False,"😂, 🇺🇸, 💯, 😍",False,"😂, 🇺🇸, 💯, 😍, ❤",False
+This movie is so exciting!,😃,😂,False,"😂, 😍",False,"😂, 😍, 😁",False,"😂, 😍, 😁, 😊",False,"😂, 😍, 😁, 😊, 😎",False
+My vacation was amazing!,😄,😍,False,"😍, 😊",False,"😍, 😊, 😎",False,"😍, 😊, 😎, 💕",False,"😍, 😊, 😎, 💕, ❤",False
+I'm stressed about my upcoming exam.,😟,😂,False,"😂, 😁",False,"😂, 😁, 😊",False,"😂, 😁, 😊, 😍",False,"😂, 😁, 😊, 😍, 💯",False
+She got promoted! So proud of her.,😊,😊,True,"😊, 😍",True,"😊, 😍, ❤",True,"😊, 😍, ❤, 😁",True,"😊, 😍, ❤, 😁, 💕",True
+I can't wait to see you!,😍,😍,True,"😍, 😊",True,"😍, 😊, 😘",True,"😍, 😊, 😘, ❤",True,"😍, 😊, 😘, ❤, 💕",True
+It's been a tough day at work.,😔,😂,False,"😂, 😊",False,"😂, 😊, 😁",False,"😂, 😊, 😁, 😎",False,"😂, 😊, 😁, 😎, 💯",False
+That joke was hilarious!,😂,😂,True,"😂, 😁",True,"😂, 😁, 💯",True,"😂, 😁, 💯, 😍",True,"😂, 😁, 💯, 😍, 😊",True
+I'm feeling anxious about the interview.,😬,😂,False,"😂, 😊",False,"😂, 😊, 😁",False,"😂, 😊, 😁, 😍",False,"😂, 😊, 😁, 😍, 😎",False
+The sunset was breathtaking.,😊,😍,False,"😍, ❤",False,"😍, ❤, ✨",False,"😍, ❤, ✨, 💙",False,"😍, ❤, ✨, 💙, 😊",True
+I miss you so much.,😢,❤,False,"❤, 💕",False,"❤, 💕, 😍",False,"❤, 💕, 😍, 😂",False,"❤, 💕, 😍, 😂, 💜",False
+I'm frustrated with this project.,😠,😂,False,"😂, 😍",False,"😂, 😍, 💯",False,"😂, 😍, 💯, 😁",False,"😂, 😍, 💯, 😁, 😊",False
+Thank you for your kind words.,😊,❤,False,"❤, 😊",True,"❤, 😊, 💕",True,"❤, 😊, 💕, 💜",True,"❤, 😊, 💕, 💜, 😍",True
+The concert was electrifying!,😄,😍,False,"😍, 😂",False,"😍, 😂, 🔥",False,"😍, 😂, 🔥, 💯",False,"😍, 😂, 🔥, 💯, 😎",False
+I'm worried about the future.,😟,😂,False,"😂, 💯",False,"😂, 💯, 😎",False,"😂, 💯, 😎, 😊",False,"😂, 💯, 😎, 😊, 😍",False
+Her smile brightened my day.,😊,😍,False,"😍, 😊",True,"😍, 😊, ❤",True,"😍, 😊, ❤, 😁",True,"😍, 😊, ❤, 😁, 💕",True
+This book is incredibly moving.,😭,😍,False,"😍, 😂",False,"😍, 😂, 💯",False,"😍, 😂, 💯, 😊",False,"😍, 😂, 💯, 😊, ✨",False
+I'm so excited to start this journey!,😃,😍,False,"😍, 😊",False,"😍, 😊, 😁",False,"😍, 😊, 😁, 💙",False,"😍, 😊, 😁, 💙, ❤",False
+I feel lonely without you.,😞,❤,False,"❤, 😂",False,"❤, 😂, 💕",False,"❤, 😂, 💕, 😍",False,"❤, 😂, 💕, 😍, 💯",False
+The surprise party made me tear up.,😊,😂,False,"😂, 😍",False,"😂, 😍, 😊",True,"😂, 😍, 😊, 😁",True,"😂, 😍, 😊, 😁, ❤",True
+The storm ruined our plans.,😕,😂,False,"😂, 😍",False,"😂, 😍, 😊",False,"😂, 😍, 😊, 💯",False,"😂, 😍, 😊, 💯, ❤",False
+I'm proud of my accomplishments.,😊,💯,False,"💯, 😊",True,"💯, 😊, 😍",True,"💯, 😊, 😍, 😂",True,"💯, 😊, 😍, 😂, ❤",True
+The new job offer is a relief.,😌,😊,False,"😊, 😍",False,"😊, 😍, 😁",False,"😊, 😍, 😁, 😎",False,"😊, 😍, 😁, 😎, 😂",False
+I'm annoyed by the constant interruptions.,😒,😂,False,"😂, 😊",False,"😂, 😊, 😍",False,"😂, 😊, 😍, 💯",False,"😂, 😊, 😍, 💯, 😁",False
+She's such a supportive friend., 😊,❤,False,"❤, 😂",False,"❤, 😂, 😍",False,"❤, 😂, 😍, 😊",True,"❤, 😂, 😍, 😊, 💕",True
+I'm overwhelmed by all the responsibilities.,😩,💯,False,"💯, 😂",False,"💯, 😂, 😍",False,"💯, 😂, 😍, 😊",False,"💯, 😂, 😍, 😊, ❤",False
+The puppy video made me smile.,😊,😍,False,"😍, 😂",False,"😍, 😂, 😊",True,"😍, 😂, 😊, 😁",True,"😍, 😂, 😊, 😁, ❤",True
+I'm devastated by the loss.,😭,😂,False,"😂, 😍",False,"😂, 😍, 😊",False,"😂, 😍, 😊, 💙",False,"😂, 😍, 😊, 💙, 💯",False
+I'm feeling motivated to exercise.,💪,😂,False,"😂, 😊",False,"😂, 😊, 💯",False,"😂, 😊, 💯, 😁",False,"😂, 😊, 💯, 😁, 😎",False
+The traffic jam stressed me out.,😫,😂,False,"😂, 😊",False,"😂, 😊, 💯",False,"😂, 😊, 💯, 😁",False,"😂, 😊, 💯, 😁, 😍",False
+I'm looking forward to the weekend.,😄,😍,False,"😍, 😊",False,"😍, 😊, 😎",False,"😍, 😊, 😎, 😁",False,"😍, 😊, 😎, 😁, ❤",False
+He surprised me with flowers.,😍,😍,True,"😍, 😂",True,"😍, 😂, 😊",True,"😍, 😂, 😊, ❤",True,"😍, 😂, 😊, ❤, 😎",True
+The rejection letter was disappointing.,😞,😍,False,"😍, 😂",False,"😍, 😂, 😊",False,"😍, 😂, 😊, 💯",False,"😍, 😂, 😊, 💯, 😎",False
+I'm inspired by her dedication.,😊,😂,False,"😂, 😍",False,"😂, 😍, 💯",False,"😂, 😍, 💯, ❤",False,"😂, 😍, 💯, ❤, 😊",True
+The party was a blast!,🎉,😍,False,"😍, 😂",False,"😍, 😂, 😎",False,"😍, 😂, 😎, 😊",False,"😍, 😂, 😎, 😊, 💕",False
+I'm nervous about the presentation.,😬,😂,False,"😂, 😁",False,"😂, 😁, 😊",False,"😂, 😁, 😊, 😍",False,"😂, 😁, 😊, 😍, 😜",False
+The sunrise was breathtaking.,😊,😍,False,"😍, ❤",False,"😍, ❤, ✨",False,"😍, ❤, ✨, 😊",True,"😍, ❤, ✨, 😊, 💙",True
+I'm so grateful for your help.,😊,❤,False,"❤, 💙",False,"❤, 💙, 💜",False,"❤, 💙, 💜, 😊",True,"❤, 💙, 💜, 😊, 💕",True
+The loss hit me hard.,😢,😂,False,"😂, 💯",False,"😂, 💯, 🔥",False,"😂, 💯, 🔥, 😍",False,"😂, 💯, 🔥, 😍, 😎",False

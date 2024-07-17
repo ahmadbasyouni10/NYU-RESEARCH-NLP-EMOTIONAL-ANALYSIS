@@ -16,3 +16,11 @@ The data for training and evaluation comes from Twitter and SemEval datasets.
 
 * The label mapping used for this model is missing sad/anxious (negative) feelings
 * Goal is to now learn to retrain model to become familiar with new emotions
+
+
+* I COMPLETED TABLES FOR BOTH MODELS AND FOR BOTH PROMPTS and took results from best prompt for GPT
+* I DEBUGGED THE CODE TO MAKE IT RETURN TRUE OR FALSE IN DATASET SINCE ELICTRICITY MADE ME LOSE MY work
+* 90 percent accuracy for best of both 36/40
+* I need bigger dataset to test on and now have additional emojis that arent part of the mapping of BERT
+* Train BERT on this new mapping of emojis
+* Go into each 
