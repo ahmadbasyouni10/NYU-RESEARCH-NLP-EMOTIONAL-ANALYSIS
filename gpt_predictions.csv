@@ -1,0 +1,41 @@
+Text,True Label,Top1 Prediction,Top1 Correct,Top2 Prediction,Top2 Correct,Top3 Prediction,Top3 Correct,Top4 Prediction,Top4 Correct,Top5 Prediction,Top5 Correct
+I'm feeling great today!,😊,\xf0\x9f\x98,False,\xf0\x9f,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False,\xe2\x98,False
+The news was heartbreaking.,😢,\xf0\x9f\x92,False,\xf0\x9f\x98,False, \xf0\x9f\x92,False, \xf0\x9f\x98,False,\xe2\x9d,False
+This movie is so exciting!,😃,\xf0\x9f,False,\xf0\x9f\x98,False, \xf0\x9f\x98,False, \xf0\x9f,False,\xf0\x9f\x92,False
+My vacation was amazing!,😄,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,\xe2\x98,False
+I'm stressed about my upcoming exam.,😟,\xf0\x9f\x98,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,\xf0\x9f,False,\xe2\x98,False
+She got promoted! So proud of her.,😊,\xf0\x9f,False,\xf0\x9f\x98,False, \xf0\x9f,False,\xf0\x9f\x92,False, \xf0\x9f\x91,False
+I can't wait to see you!,😍,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,\xe2\x9d,False
+It's been a tough day at work.,😔,\xf0\x9f\x98,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False,\xf0\x9f,False,\xe2\x98,False
+That joke was hilarious!,😂,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,',False,"""",False
+I'm feeling anxious about the interview.,😬,\xf0\x9f\x98,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,\xf0\x9f,False,The,False
+The sunset was breathtaking.,😊,\xf0\x9f\x98,False,\xf0\x9f,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False,\xe2\x98,False
+I miss you so much.,😢,\xf0\x9f\x98,False,\xf0\x9f\x92,False,\xe2\x9d,False,\xf0\x9f,False, \xf0\x9f\x98,False
+I'm frustrated with this project.,😠,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,The,False
+Thank you for your kind words.,😊,\xf0\x9f\x98,False,\xf0\x9f,False,\xe2\x98,False,\xf0\x9f\x92,False,\xe2\x9d,False
+The concert was electrifying!,😄,\xf0\x9f,False,\xe2,False,\xf0\x9f\x98,False,\xf0\x9f\x92,False, \xf0\x9f,False
+I'm worried about the future.,😟,\xf0\x9f\x98,False,\xf0\x9f\x92,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xe2\x98,False
+Her smile brightened my day.,😊,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xe2\x98,False,\xf0\x9f\x92,False
+This book is incredibly moving.,😭,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,\xe2\x9d,False
+I'm so excited to start this journey!,😃,\xf0\x9f,False,\xf0\x9f\x98,False, \xf0\x9f,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False
+I feel lonely without you.,😞,\xf0\x9f\x98,False,\xf0\x9f\x92,False,\xf0\x9f,False,\xe2\x9d,False,\xe2\x98,False
+The surprise party made me tear up.,😊,\xf0\x9f\x98,False, \xf0\x9f\x98,False,\xf0\x9f,False,\xf0\x9f\x92,False, \xf0\x9f,False
+The storm ruined our plans.,😕,\xf0\x9f\x98,False, \xf0\x9f\x98,False,\xe2\x98,False,\xf0\x9f,False,\xf0\x9f\x92,False
+I'm proud of my accomplishments.,😊,\xf0\x9f,False,\xf0\x9f\x98,False,\xf0\x9f\x92,False, \xf0\x9f,False,\xe2\x9c,False
+The new job offer is a relief.,😌,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,\xe2\x98,False
+I'm annoyed by the constant interruptions.,😒,\xf0\x9f,False,\xf0\x9f\x98,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False, \xf0\x9f,False
+She's such a supportive friend., 😊,\xf0\x9f,False,\xf0\x9f\x98,False,\xe2\x9d,False,\xf0\x9f\x92,False,\xe2\x98,False
+I'm overwhelmed by all the responsibilities.,😩,\xf0\x9f\x98,False,\xf0\x9f\x92,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xe2\x98,False
+The puppy video made me smile.,😊,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xe2\x98,False,\xe2\x9d,False
+I'm devastated by the loss.,😭,\xf0\x9f\x98,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x92,False
+I'm feeling motivated to exercise.,💪,\xf0\x9f\x92,False,\xf0\x9f,False, \xf0\x9f\x92,False,\xf0\x9f\x98,False,\xe2,False
+The traffic jam stressed me out.,😫,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,\xe2\x98,False
+I'm looking forward to the weekend.,😄,\xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x98,False,\xe2\x98,False,\xf0\x9f\x92,False
+He surprised me with flowers.,😍,\xf0\x9f\x98,False,\xf0\x9f,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False,\xe2\x9d,False
+The rejection letter was disappointing.,😞,\xf0\x9f\x98,False, \xf0\x9f\x98,False,\xf0\x9f\x92,False,\xf0\x9f,False,\xe2\x98,False
+I'm inspired by her dedication.,😊,\xf0\x9f,False,\xf0\x9f\x92,False,\xf0\x9f\x98,False,\xe2\x9c,False,\xe2\x9d,False
+The party was a blast!,🎉,\xf0\x9f,False,\xf0\x9f\x98,False, \xf0\x9f,False,\xf0\x9f\x92,False,\xe2,False
+I'm nervous about the presentation.,😬,\xf0\x9f\x98,False,\xf0\x9f,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False,The,False
+The sunrise was breathtaking.,😊,\xf0\x9f,False,\xf0\x9f\x98,False,\xe2\x98,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False
+I'm so grateful for your help.,😊,\xf0\x9f,False,\xf0\x9f\x98,False,\xe2\x98,False,\xe2\x9d,False, \xf0\x9f\x98,False
+The loss hit me hard.,😢,\xf0\x9f\x98,False,\xf0\x9f\x92,False, \xf0\x9f\x98,False,\xf0\x9f,False, \xf0\x9f\x92,False
