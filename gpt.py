@@ -1,8 +1,9 @@
 from openai import OpenAI
 import csv
+import os
 
 client = OpenAI(
-    api_key="sk-proj-Q1IBHrPvY1tGCRjFHQ67T3BlbkFJxvfpPQhMVyI3Qx3jGxxZ"
+    api_key=os.getenv("OPENAI_API_KEY")
 )
 
 def chat_gpt(prompt, top_k):
