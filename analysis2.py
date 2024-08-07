@@ -1,24 +1,24 @@
-from openai import OpenAI
 import csv
+from openai import OpenAI
 import os
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key="sk-proj-Q1IBHrPvY1tGCRjFHQ67T3BlbkFJxvfpPQhMVyI3Qx3jGxxZ")  # Replace with your actual API key
 
-def chat_gpt(prompt, top_k):
+def chat_gpt(prompt):
     chat_completion = client.chat.completions.create(
         messages=[
             {"role": "user", "content": prompt}
         ],
         model="gpt-3.5-turbo",
-        logprobs=True,
-        top_logprobs=top_k
+        max_tokens=5,
+        temperature=0.7,
+        n=5
     )
-    return [c.token for c in chat_completion.choices[0].logprobs.content[0].top_logprobs]
+    return [choice.message.content.strip() for choice in chat_completion.choices]
 
 def get_emojis(text):
-    prompt = f"Return an emoji that describes the emotion of the person saying: '{text}'"
-    emojis = chat_gpt(prompt, top_k=5)
-    return emojis
+    prompt = f"Return a single emoji that best describes the emotion in this text: '{text}'. Only return the emoji, nothing else."
+    return chat_gpt(prompt)
 
 def analyze_emotions_gpt(dataset_path):
     input_file = dataset_path
@@ -37,9 +37,10 @@ def analyze_emotions_gpt(dataset_path):
         for text, true_label in dataset:
             emojis = get_emojis(text)
             row = [text, true_label]
-            for i, emoji in enumerate(emojis, start=1):
-                correct_flag = true_label.strip() in emoji
-                row.extend([emoji, "True" if correct_flag else "False"])
+            for i in range(1, 6):
+                predictions = " ".join(emojis[:i])
+                correct_flag = true_label.strip() in [e.strip() for e in emojis[:i]]
+                row.extend([predictions, "True" if correct_flag else "False"])
             writer.writerow(row)
 
     print(f"Results saved to {output_file}")
