@@ -2,7 +2,7 @@ import csv
 from openai import OpenAI
 import os
 
-client = OpenAI(api_key="sk-proj-Q1IBHrPvY1tGCRjFHQ67T3BlbkFJxvfpPQhMVyI3Qx3jGxxZ")  # Replace with your actual API key
+client = OpenAI(api_key="")  # Replace with your actual API key
 
 def chat_gpt(prompt):
     chat_completion = client.chat.completions.create(
